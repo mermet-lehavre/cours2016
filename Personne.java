@@ -4,6 +4,7 @@ public class Personne {
 	private int age;
 	
 	public Personne(String n, String p, int a) {
+		// dans repriseMaster
 		nom = n;
 		prenom = p;
 		age = a;
