@@ -2,6 +2,7 @@ public class Main {
 	
 	public static void milieu() {
 		System.out.println("Ligne du milieu");
+		System.out.println("Ajout dans la version 1.1");
 	}
 	
 	public static void main( String[] args ) {
