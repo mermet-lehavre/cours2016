@@ -8,4 +8,8 @@ public class Personne {
 		prenom = p;
 		age = a;
 	}
+	
+	@Override public String toString() {
+		return nom+ " " + prenom;
+	}
 }
