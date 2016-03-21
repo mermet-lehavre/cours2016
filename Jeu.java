@@ -1,5 +1,6 @@
 public class Jeu {
-	//TODO ou  A FAIRE
-	public Jeu() {
+	String nomJeu;
+	public Jeu(String nom) {
+		nomJeu = nom;
 	}
 }
