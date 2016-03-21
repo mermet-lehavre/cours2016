@@ -10,5 +10,6 @@ public class Main {
 		milieu();
 		Personne = new Personne("Mermet","Bruno",20);
 		System.out.println("Au revoir tout le monde");
+		System.out.println("Bye bye");
 	}
 }
