@@ -1,6 +1,8 @@
 public class Jeu {
 	String nomJeu;
-	public Jeu(String nom) {
+	String dateJeu;
+	public Jeu(String nom, String dd) {
 		nomJeu = nom;
+		dateJeu = dd;
 	}
 }
